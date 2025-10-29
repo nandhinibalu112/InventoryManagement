@@ -1,0 +1,1 @@
+The SQLite DB file 'inventory.db' is created and seeded. If you'd rather recreate it from SQL, run the statements in init.sql using sqlite3.
